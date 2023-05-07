@@ -7,7 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+Pipfile
+Pipfile.lock
 .Python
+.ipynb_checkpoints
+
 build/
 develop-eggs/
 dist/
