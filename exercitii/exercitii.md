@@ -171,3 +171,26 @@ Functions - 20 exercises to practice functions:
 18. Write a function that takes in a list of strings and a substring, and returns a new list with only the strings that contain that substring.
 19. Write a function that takes in a list of numbers and a target number, and returns True if the target number is in the list, and False otherwise.
 20. Write a function that takes in a list of strings and returns a new list with only the unique strings.
+
+Working with files: 
+
+1. Write a Python program to read a file and display its content on the console.
+2. Write a Python program to count the number of lines in a file.
+3. Write a Python program to count the number of words in a file.
+4. Write a Python program to count the number of characters in a file.
+5. Write a Python program to copy the content of one file to another.
+6. Write a Python program to append the content of one file to another.
+7. Write a Python program to read a file line by line and store each line in a list.
+8. Write a Python program to read a file and remove all the blank lines.
+9. Write a Python program to read a file and remove all the comments (lines starting with `#`).
+10. Write a Python program to read a file and replace all the occurrences of a word with another word.
+11. Write a Python program to read a file and extract all the email addresses.
+12. Write a Python program to read a file and extract all the URLs.
+13. Write a Python program to read a file and extract all the phone numbers.
+14. Write a Python program to read a file and extract all the dates.
+15. Write a Python program to read a CSV file and display its content on the console.
+16. Write a Python program to read a CSV file and write its content to a new CSV file.
+17. Write a Python program to read a JSON file and display its content on the console.
+18. Write a Python program to read a JSON file and write its content to a new JSON file.
+19. Write a Python program to read an XML file and display its content on the console.
+20. Write a Python program to read an XML file and write its content to a new XML file.
